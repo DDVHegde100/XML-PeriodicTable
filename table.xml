@@ -28,4 +28,11 @@
     </AtomicNumber>
 		<AtomicMass>6.94</AtomicMass>
 	</element>
+	<element>
+		<name>Boron</name>
+		<AtomicNumber>
+     5
+    </AtomicNumber>
+		<AtomicMass>10.81</AtomicMass>
+	</element>
 </PeriodicTable>
