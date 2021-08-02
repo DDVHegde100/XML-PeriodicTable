@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PeriodicTable>
+	<element>
+		<name>Hydrogen</name>
+		<AtomicNumber>
+     1
+   </AtomicNumber>
+		<AtomicMass>1.008</AtomicMass>
+	</element>
+	<element>
+		<name>Helium</name>
+		<AtomicNumber>
+     2
+    </AtomicNumber>
+		<AtomicMass>4.0026</AtomicMass>
+	</element>
+	<element>
+		<name>Lithium</name>
+		<AtomicNumber>
+     3
+    </AtomicNumber>
+		<AtomicMass>6.94</AtomicMass>
+	</element>
+	<element>
+		<name>Beryllium</name>
+		<AtomicNumber>
+     4
+    </AtomicNumber>
+		<AtomicMass>6.94</AtomicMass>
+	</element>
+</PeriodicTable>
